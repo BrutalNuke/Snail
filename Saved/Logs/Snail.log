@@ -1266,3 +1266,30 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.04-21.34.36:312][929]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
 [2023.11.04-21.34.36:312][929]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
 [2023.11.04-21.34.41:214][161]LogAutomationController: Ignoring very large delta of 2.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.04-21.44.07:131][969]LogAutomationController: Ignoring very large delta of 12.97 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.04-21.44.14:895][602]LogAutomationController: Ignoring very large delta of 2.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.04-21.44.22:448][486]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.11.04-21.44.31:119][494]SourceControl: Revision control is disabled
+[2023.11.04-21.44.34:737][916]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: URL: C:\Users\Luuk Barten\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: URL: C:\Users\Luuk Barten\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.11.04-21.44.34:738][916]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2023.11.04-21.44.36:567][120]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2023.11.04-21.44.36:567][120]LogWindows: Warning: URL: G:/UE_5.3/Engine/Binaries/Win64/ version
+[2023.11.04-21.44.48:748][370]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2023.11.04-21.44.48:748][370]LogWindows: Warning: URL: G:/UE_5.3/Engine/Binaries/Win64/ version
+[2023.11.04-21.44.48:749][370]SourceControl: Error: Connection Error: Failed to enable Git revision control. You need to install Git and specify a valid path to git executable.
+[2023.11.04-21.46.39:817][730]LogEditorViewport: Clicking Background
+[2023.11.04-21.46.42:050][971]SourceControl: Revision control is disabled
+[2023.11.04-21.46.42:050][971]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.11.04-21.46.44:745][288]LogEditorViewport: Clicking Background
