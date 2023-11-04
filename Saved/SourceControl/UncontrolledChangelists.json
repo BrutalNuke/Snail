@@ -7,7 +7,18 @@
 			"files": [
 				"G:/Unreal Engine Projects/Snail/Content/Maps/MAP_Test.umap",
 				"G:/Unreal Engine Projects/Snail/Content/Assets/snail.uasset",
-				"G:/Unreal Engine Projects/Snail/Content/Assets/garden-tile.uasset"
+				"G:/Unreal Engine Projects/Snail/Content/Assets/garden-tile.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/snail.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/garden-tile.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Audio/level1.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/TS_test.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Tilesets/TS_test.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Tilesets/TM_test.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_Snail.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_GameMode.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_PlayerController.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/snail1.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/snail_Sprite_0.uasset"
 			]
 		}
 	]
