@@ -6,19 +6,34 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"G:/Unreal Engine Projects/Snail/Content/Maps/MAP_Test.umap",
-				"G:/Unreal Engine Projects/Snail/Content/Assets/snail.uasset",
-				"G:/Unreal Engine Projects/Snail/Content/Assets/garden-tile.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/snail.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/garden-tile.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Audio/level1.uasset",
-				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/TS_test.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Assets/Tilesets/TS_test.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Assets/Tilesets/TM_test.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_Snail.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_GameMode.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_PlayerController.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/snail1.uasset",
-				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/snail_Sprite_0.uasset"
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/snail_Sprite_0.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/garden-tile1.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/garden-tile1_Mat.uasset",
+				"G:/UE_5.3/Engine/Content/BasicShapes/M_Sphere_SimplePivotPainterExampleMat_74AB38E94FD3A9E4C01D098BD96C49E6.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Tilesets/Minilevel.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Graphics/Hero/hero.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Maps/MAP_Test2.umap",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Graphics/Hero/hero_Flipbook.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Graphics/Hero/hero_Sprite.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_Hero.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/IA_Movement.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/IMC_Default.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/IA_Jump.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_Snailcontrol.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/IA_SnailSpeedUp.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/IA_SnailSpeedDown.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/snail.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/garden-tile.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Textures/TS_test.uasset"
 			]
 		}
 	]
