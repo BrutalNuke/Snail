@@ -8,7 +8,15 @@
 				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_Snailcontrol.uasset",
 				"G:/Unreal Engine Projects/Snail/Content/Maps/Map_1.umap",
 				"G:/Unreal Engine Projects/Snail/Content/Blueprints/WBP_Energy.uasset",
-				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_Bullet.uasset"
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_Bullet.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Tilesets/TM_CompleteDraft.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Blueprints/BP_Hero.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Graphics/Tileset/TS_test.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Maps/Map_JumpTest.umap",
+				"G:/Unreal Engine Projects/Snail/Content/Assets/Graphics/Hero/hero_Sprite.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Audio/fx/RandomLaser.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Audio/fx/RandomCrunch.uasset",
+				"G:/Unreal Engine Projects/Snail/Content/Audio/fx/LoopingMove.uasset"
 			]
 		}
 	]
